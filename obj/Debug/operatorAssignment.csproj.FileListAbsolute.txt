@@ -1,0 +1,7 @@
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\bin\Debug\operatorAssignment.exe.config
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\bin\Debug\operatorAssignment.exe
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\bin\Debug\operatorAssignment.pdb
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\obj\Debug\operatorAssignment.csproj.AssemblyReference.cache
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\obj\Debug\operatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\obj\Debug\operatorAssignment.exe
+C:\Users\HAFIZ-TECH\source\repos\operatorAssignment\operatorAssignment\obj\Debug\operatorAssignment.pdb
